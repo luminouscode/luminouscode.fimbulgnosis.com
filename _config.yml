@@ -1,0 +1,7 @@
+# Site settings
+title: Fimbulgnosis
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://fimbulgnosis.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
